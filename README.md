@@ -1,4 +1,4 @@
-## =>This project is for analyzing the sales of Vrinda store. The goal of this project is to show some KPIS and answer some questions that will benefit the business.
+# =>This project is for analyzing the sales of Vrinda store. The goal of this project is to show some KPIS and answer some questions that will benefit the business.
 
 ## =>Question/ Business Task for report
     Total Sales.
