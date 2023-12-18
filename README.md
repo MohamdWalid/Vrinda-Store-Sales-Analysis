@@ -13,7 +13,7 @@
 ## =>Data Cleaning
     1) In the Gender column, we have four unique entries ‘Men’, ‘M’, ‘Women’, and ‘W’. We 
         have to convert all the ‘M’ to ‘Men’ and ‘W’ to ‘Women’.
-   2) In Qty. column, we have some numeric values like 1, 2, 3, etc., and some alphabetic values 
+    2) In Qty. column, we have some numeric values like 1, 2, 3, etc., and some alphabetic values 
        like one and two. Use the Find and Replace option again to replace these one and two with 1 
        and 2.
       
