@@ -1,14 +1,14 @@
 # =>This project is for analyzing the sales of Vrinda store. The goal of this project is to show some KPIS and answer some questions that will benefit the business.
 
 ## =>Question/ Business Task for report
-    Total Sales.
-    Total Sales reached by the customer.
-    Which month got the highest sales and orders?
-    Who purchased more — men or women in 2022?
-    What is the different order status in 2022?
-    List the top 5 states that contribute to the sales.
-    The relation between age and gender based on a number of orders.
-    Which channel is contributing to maximum sales?
+    1) Total Sales.
+    2) Total Sales reached by the customer.
+    3) Which month got the highest sales and orders?
+    4) Who purchased more — men or women in 2022?
+    5) What is the different order status in 2022?
+    6) List the top 5 states that contribute to the sales.
+    7) The relation between age and gender based on a number of orders.
+    8) Which channel is contributing to maximum sales?
 
 ## =>Data Cleaning
     1) In the Gender column, we have four unique entries ‘Men’, ‘M’, ‘Women’, and ‘W’. We 
@@ -22,7 +22,7 @@
      below 30 (Youth).  
      
 ## =>Insights
-•	Women are more likely to buy compared to men (~65%).
-•	Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (~35%).
-•	The Adult age group (30–49 yrs) is max contributed (~50%).
-•	Amazon, Flipkart, and Myntra channels are maxed contributors (~80%).
+    1) Women are more likely to buy compared to men (~65%).
+    2) Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (~35%).
+	3) The Adult age group (30–49 yrs) is max contributed (~50%).
+	4) Amazon, Flipkart, and Myntra channels are maxed contributors (~80%).
